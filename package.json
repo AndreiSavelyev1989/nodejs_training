@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "task1": "nodemon src/task1/task1.js"
+  },
+  "author": "Andrei Savelyeu",
+  "license": "ISC"
+}
